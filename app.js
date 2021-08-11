@@ -131,7 +131,8 @@ function removeItems() {
     localStorage.clear();
 
     // disabled attribute from W3 Schools
-    clearButton.setAttribute('disabled', 'true')
+    clearButton.setAttribute('disabled', 'true');
+    location.reload();
 }
 
 
