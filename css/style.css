@@ -14,7 +14,7 @@ header h1{
     width: 20%;
     margin-left: 8%;
     margin-right: 72%;
-    margin-top: 5%;
+    margin-top: 50pt;
     background-color: rgba(114, 104, 211, 0.8);
     text-align: center;
     padding: 3%;
@@ -27,7 +27,7 @@ header h1{
     margin-left: 45%;
     margin-right: 12%;
     position:absolute;
-    top: 20%;
+    top: 100pt;
     margin-top: 20%;
     clear: both;
     /* float: right; */
